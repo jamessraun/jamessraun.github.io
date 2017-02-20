@@ -503,3 +503,9 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+
+.img-index{
+border-radius: 50%;
+ border: 2px solid red;
+
+}
